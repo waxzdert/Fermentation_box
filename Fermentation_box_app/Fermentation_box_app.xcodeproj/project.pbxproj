@@ -14,7 +14,6 @@
 		653CB67B20419522007ABA91 /* Fermentation_box_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CB67A20419522007ABA91 /* Fermentation_box_appTests.swift */; };
 		653CB68620419522007ABA91 /* Fermentation_box_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CB68520419522007ABA91 /* Fermentation_box_appUITests.swift */; };
 		653CB6982041B19A007ABA91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 653CB6972041B19A007ABA91 /* Assets.xcassets */; };
-		653CB69A2041B6D3007ABA91 /* autoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CB6992041B6D3007ABA91 /* autoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		653CB68520419522007ABA91 /* Fermentation_box_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fermentation_box_appUITests.swift; sourceTree = "<group>"; };
 		653CB68720419522007ABA91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		653CB6972041B19A007ABA91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		653CB6992041B6D3007ABA91 /* autoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = autoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,6 @@
 				653CB6972041B19A007ABA91 /* Assets.xcassets */,
 				653CB66E20419521007ABA91 /* LaunchScreen.storyboard */,
 				653CB67120419521007ABA91 /* Info.plist */,
-				653CB6992041B6D3007ABA91 /* autoViewController.swift */,
 			);
 			path = Fermentation_box_app;
 			sourceTree = "<group>";
@@ -262,7 +259,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				653CB69A2041B6D3007ABA91 /* autoViewController.swift in Sources */,
 				653CB66820419521007ABA91 /* ViewController.swift in Sources */,
 				653CB66620419521007ABA91 /* AppDelegate.swift in Sources */,
 			);
